@@ -1,0 +1,14 @@
+{
+  "name": "acecase-map",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo \"Static project\"",
+    "start": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^34.1.0"
+  }
+}
+
